@@ -10,7 +10,7 @@ A Django-based backend for generating intelligent, contextual hints for coding p
 
 1. **Clone the repository and checkout the LangChain branch:**
    ```bash
-   git clone https://github.com/KMohnishM/Hint_Generation.git
+   git clone https://github.com/JnPraneeta/Hint_Generation.git
    cd Hint_Generation
    git checkout LangChain
    cd backend
